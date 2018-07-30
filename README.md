@@ -1,1 +1,1 @@
-# EL-LAB_Explorer_Battery_Board
+# EL LAB: Battery

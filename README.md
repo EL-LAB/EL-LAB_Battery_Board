@@ -7,3 +7,7 @@ Adicionalmente, la tarjeta **EL LAB: Battery** incluye un conversor analógico-d
 La tensión de salida de la tarjeta es de 9V. Utiliza 6 baterías AA.
 
 Más información sobre el uso y ensamblaje de la tarjeta se puede encontrar [aquí](https://github.com/EL-LAB/EL-LAB_Battery_Board/wiki/01.-EL-LAB:-Battery).
+
+<p align="center">
+  <img width="90%" height="90%" src="https://github.com/EL-LAB/EL-LAB_Battery_Board/blob/master/Images/21_TarjetaLista.jpg">
+</p>
